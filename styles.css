@@ -1,0 +1,19 @@
+body{ 
+background-color:coral;
+padding:50px
+}
+#big{
+	color:#000;
+	font-size:50px;
+	}
+#paragraph{
+	color:#000;
+	font-size:30px;
+	}
+#image{
+}
+#description{
+}
+#reviews {
+	clear:both;
+}
